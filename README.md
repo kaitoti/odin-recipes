@@ -1,3 +1,3 @@
-Usage of basic html tags: hyperlinks,headings,lists,paragraph,adding image
+Usage of basic HTML & CSS
 
-basic exercise on theodinproject.com
+preview [here](https://kaitoti.github.io/odin-recipes/).
