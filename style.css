@@ -1,0 +1,38 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(236, 246, 255);
+    
+}
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: #34495e
+}
+h2 {
+    text-align: center;
+    font-size: 28px;
+}
+p.desc{
+    padding-left: 30px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#recipes {
+    font-size: 18px; 
+    margin: auto;
+    width: 50%;
+}
+.recipe {
+    padding: 5px;
+}
+
+.step {
+    line-height: 22px;
+    padding-bottom: 18px;
+}
+
